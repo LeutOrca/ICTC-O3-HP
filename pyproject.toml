@@ -3,9 +3,9 @@ requires = ["setuptools>=64", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mace-ictc-hp"
+name = "ictc-o3-hp"
 version = "0.2.12"
-description = "MACE-ICTC high-performance Cartesian operators and whole-network runtime"
+description = "ICTC high-performance Cartesian operators and whole-network runtime"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "PolyForm-Noncommercial-1.0.0 AND MIT" }

@@ -70,7 +70,7 @@ git checkout 22Jul2025  # 或 develop 等
 
 ## 3. 安装 USER-MFFTORCH 到 LAMMPS 源码树
 
-在 **MACE-ICTC-HP 仓库根目录**，将接口源码复制到目标 LAMMPS 源码树：
+在 **ICTC-O3-HP 仓库根目录**，将接口源码复制到目标 LAMMPS 源码树：
 
 ```bash
 lammps_source=/path/to/lammps
@@ -630,7 +630,7 @@ LAMMPS-vs-Python，因为编译器 lowering 会改变浮点运算顺序。
 ## 11. 附录：目录结构速览
 
 ```
-MACE-ICTC-HP/
+ICTC-O3-HP/
 ├── lammps_user_mfftorch/
 │   ├── src/USER-MFFTORCH/          # 源码
 │   ├── cmake/Modules/Packages/USER-MFFTORCH.cmake

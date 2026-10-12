@@ -1,7 +1,7 @@
 """
-MACE-ICTC - MACE in the Irreducible Cartesian Tensor Decomposition basis.
+ICTC-O3-HP - high-performance Cartesian operators and MACE-compatible models.
 
-Private standalone high-performance extraction. Stable HP operator and
+Standalone high-performance library. Stable HP operator and
 whole-network entrypoints are exposed in ``mace_ictc.hp``. The package name
 is retained for checkpoint compatibility; no O2U1 package is required.
 """
